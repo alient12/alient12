@@ -2,7 +2,7 @@
 
 <h3 align="left">Stack Overflow:</h3>
 <!-- [![Ali's Stackoverflow](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=14950385)](https://stackoverflow.com/users/14950385/ali-ent) -->
-<a href="https://stackexchange.com/users/20380077"><img src="https://stackexchange.com/users/flair/20380077.png" width="208" height="58" alt="profile for Ali Ent on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Ali Ent on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackoverflow.com/users/14950385/ali-ent"><img src="https://stackexchange.com/users/flair/20380077.png" width="208" height="58" alt="profile for Ali Ent on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Ali Ent on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 
 <h3 align="left">Connect with me:</h3>
