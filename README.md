@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Ali's Stackoverflow](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=14950385)](https://stackoverflow.com/users/20618350/ali)
 <!--
 **alient12/alient12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
